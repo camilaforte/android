@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="abrir_outra_activity">Abrir outra activity</string>
+    <string name="eu_sou_a_tela_2">Eu sou a tela 2!</string>
+</resources>

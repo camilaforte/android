@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Radio e Checkbox</string>
+    <string name="estou_aprendendo_android">Estou aprendendo Android</string>
+    <string name="facil">Fácil</string>
+    <string name="medio">médio</string>
+    <string name="dificil">difícil</string>
+    <string name="salvar">Salvar</string>
+</resources>
