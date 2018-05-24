@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NAC 02 Correcao</string>
+    <string name="hamburguer_01">Hamburguer 01</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="r_15_00">R$15,00</string>
+    <string name="hamburguer_02">Hamburguer 02</string>
+    <string name="hamburguer_03">Hamburguer 03</string>
+    <string name="comprar">Comprar</string>
+    <string name="descri_o_do_lanche_01">Descrição do lanche 01</string>
+</resources>
